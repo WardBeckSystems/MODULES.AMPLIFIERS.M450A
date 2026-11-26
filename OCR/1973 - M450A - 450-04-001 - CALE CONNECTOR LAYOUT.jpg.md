@@ -19,7 +19,7 @@ Wiki page: [M450A](../../../../PAGES/M450A.md)
 - **Circles and arcs:** 3 circles, 0 arcs; largest r 3.3 @ (320.4, 8.4), r 2.6 @ (208.8, 9.3), r 2.6 @ (237.1, 205.2)
 - **Closed boxes:** 37
 
-Every curve, box, word and wire group: [1973 - M450A - 450-04-001 - CALE CONNECTOR LAYOUT (traced).json](../PINOUTS/1973%20-%20M450A%20-%20450-04-001%20-%20CALE%20CONNECTOR%20LAYOUT%20(traced).json) (the CAD file: `1973 - M450A - 450-04-001 - CALE CONNECTOR LAYOUT (traced).dxf`).
+Every curve, box, word and wire group: [1973 - M450A - 450-04-001 - CALE CONNECTOR LAYOUT (traced).json](../PINOUTS/1973%20-%20M450A%20-%20450-04-001%20-%20CALE%20CONNECTOR%20LAYOUT%20%28traced%29.json) (the CAD file: `1973 - M450A - 450-04-001 - CALE CONNECTOR LAYOUT (traced).dxf`).
 
 ## Full text
 

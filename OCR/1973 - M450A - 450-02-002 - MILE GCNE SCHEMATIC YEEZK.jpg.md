@@ -23,7 +23,7 @@ Wiki page: [M450A](../../../../PAGES/M450A.md)
 - **Title block:** (351, 14)–(402, 30) mm: WBS WARD-[
 - **Wiring (first pass):** 133 connected wire groups from 761 runs; labelled ends: 295 mm → C22, (OOOP, R29, C18; 162 mm → 227, g3o/6, R37, 156; 154 mm → boL; 126 mm → Igv, RI5, 3*3, C14; 118 mm → R35, ISk
 
-Every curve, box, word and wire group: [1973 - M450A - 450-02-002 - MILE GCNE SCHEMATIC YEEZK (traced).json](../SCHEMATICS/1973%20-%20M450A%20-%20450-02-002%20-%20MILE%20GCNE%20SCHEMATIC%20YEEZK%20(traced).json) (the CAD file: `1973 - M450A - 450-02-002 - MILE GCNE SCHEMATIC YEEZK (traced).dxf`).
+Every curve, box, word and wire group: [1973 - M450A - 450-02-002 - MILE GCNE SCHEMATIC YEEZK (traced).json](../SCHEMATICS/1973%20-%20M450A%20-%20450-02-002%20-%20MILE%20GCNE%20SCHEMATIC%20YEEZK%20%28traced%29.json) (the CAD file: `1973 - M450A - 450-02-002 - MILE GCNE SCHEMATIC YEEZK (traced).dxf`).
 
 ## Full text
 

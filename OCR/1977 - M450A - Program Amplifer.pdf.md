@@ -27,7 +27,7 @@ Wiki page: [M450A](../../../../PAGES/M450A.md)
 - **Words (OCR):** 17 in 11 lines: ['NBS] 841"'l'ClQFlES8AVENUE,~c:N'T,t,FlQM'lH:a)( · WARD-BECK SYSTEMS · Te..l!X: 08-234811 · A'l8 /4I:;JB ..-eo · T'El..I!F'HCII': · M450A · PROGRAM AMPLIFIER · ps · BS · tp · ht
 - **Title block:** (114, 403)–(264, 428) mm: ['NBS] 841"'l'ClQFlES8AVENUE,~c:N'T,t,FlQM'lH:a)( · WARD-BECK SYSTEMS
 
-Every curve, box, word and wire group: [1977 - M450A - Program Amplifer p1 (traced).json](../MANUALS/1977%20-%20M450A%20-%20Program%20Amplifer%20p1%20(traced).json) (the CAD file: `1977 - M450A - Program Amplifer p1 (traced).dxf`).
+Every curve, box, word and wire group: [1977 - M450A - Program Amplifer p1 (traced).json](../MANUALS/1977%20-%20M450A%20-%20Program%20Amplifer%20p1%20%28traced%29.json) (the CAD file: `1977 - M450A - Program Amplifer p1 (traced).dxf`).
 
 ### Page 2
 
@@ -37,7 +37,7 @@ Every curve, box, word and wire group: [1977 - M450A - Program Amplifer p1 (trac
 - **Dots (junctions):** 1
 - **Words (OCR):** 34 in 20 lines: WVfAC BECKS 3yrt0ms · IABLE_QE_conMNIS · Misoh_PROGRAY AHFLIFIER · SECMA · page · Herrinty · ennicu · Cirera Descriveion · circui Deseriocion · Ga In · Ment · Taro St
 
-Every curve, box, word and wire group: [1977 - M450A - Program Amplifer p2 (traced).json](../MANUALS/1977%20-%20M450A%20-%20Program%20Amplifer%20p2%20(traced).json) (the CAD file: `1977 - M450A - Program Amplifer p2 (traced).dxf`).
+Every curve, box, word and wire group: [1977 - M450A - Program Amplifer p2 (traced).json](../MANUALS/1977%20-%20M450A%20-%20Program%20Amplifer%20p2%20%28traced%29.json) (the CAD file: `1977 - M450A - Program Amplifer p2 (traced).dxf`).
 
 ### Page 3
 
@@ -49,7 +49,7 @@ Every curve, box, word and wire group: [1977 - M450A - Program Amplifer p2 (trac
 - **Words (OCR):** 216 in 67 lines: WA · SYSTEM LTD. · TECHN ICAL DATE · M45DA PROGRAM AMP LI FIER · Hote: All data give below are based · he us of the M450A · Progra ll AMplif ter in co njun tion with the WBS ou tput · ra ns fo rMer type 70-7. The · or lle · not part of · the Ulp l1f'\er as se Mbly and Mus be rde red separately. · So
 - **Title block:** (134, 47)–(258, 376) mm: TECHN ICAL DATE · M45DA PROGRAM AMP LI FIER · he us of the M450A · Progra ll AMplif ter in co njun tion with the WBS ou tput · or lle · the Ulp l1f'\er as se Mbly and Mus be rde red separately. · 600 
 
-Every curve, box, word and wire group: [1977 - M450A - Program Amplifer p3 (traced).json](../MANUALS/1977%20-%20M450A%20-%20Program%20Amplifer%20p3%20(traced).json) (the CAD file: `1977 - M450A - Program Amplifer p3 (traced).dxf`).
+Every curve, box, word and wire group: [1977 - M450A - Program Amplifer p3 (traced).json](../MANUALS/1977%20-%20M450A%20-%20Program%20Amplifer%20p3%20%28traced%29.json) (the CAD file: `1977 - M450A - Program Amplifer p3 (traced).dxf`).
 
 ### Page 4
 
@@ -60,7 +60,7 @@ Every curve, box, word and wire group: [1977 - M450A - Program Amplifer p3 (trac
 - **Closed boxes:** 2
 - **Words (OCR):** 87 in 54 lines: LAAnd AECK Ryatovs · GIALERA · uesciktiax · M50A Prucrah AHPLINIA · Renerrance · HISG Foora · dicr · p Minie desiuned · pronessi 0 · citiont · Teveis used culari aner · Mica
 
-Every curve, box, word and wire group: [1977 - M450A - Program Amplifer p4 (traced).json](../MANUALS/1977%20-%20M450A%20-%20Program%20Amplifer%20p4%20(traced).json) (the CAD file: `1977 - M450A - Program Amplifer p4 (traced).dxf`).
+Every curve, box, word and wire group: [1977 - M450A - Program Amplifer p4 (traced).json](../MANUALS/1977%20-%20M450A%20-%20Program%20Amplifer%20p4%20%28traced%29.json) (the CAD file: `1977 - M450A - Program Amplifer p4 (traced).dxf`).
 
 ### Page 5
 
@@ -71,7 +71,7 @@ Every curve, box, word and wire group: [1977 - M450A - Program Amplifer p4 (trac
 - **Words (OCR):** 438 in 112 lines: WARD -BECK SYST MS LTD · CI RCUIT DESCRI PTI ON · H4s 0A PROG RAM AHPLI FIER · The two ha lves of the npu signa are ppli · to in · i1nd · the dge con nec to · nd then proc ee via on -board · si or · pin · and · of 11 presenti ng
 - **Title block:** (25, 400)–(90, 423) mm: WARD -BECK SYST MS LTD
 
-Every curve, box, word and wire group: [1977 - M450A - Program Amplifer p5 (traced).json](../MANUALS/1977%20-%20M450A%20-%20Program%20Amplifer%20p5%20(traced).json) (the CAD file: `1977 - M450A - Program Amplifer p5 (traced).dxf`).
+Every curve, box, word and wire group: [1977 - M450A - Program Amplifer p5 (traced).json](../MANUALS/1977%20-%20M450A%20-%20Program%20Amplifer%20p5%20%28traced%29.json) (the CAD file: `1977 - M450A - Program Amplifer p5 (traced).dxf`).
 
 ### Page 6
 
@@ -81,7 +81,7 @@ Every curve, box, word and wire group: [1977 - M450A - Program Amplifer p5 (trac
 - **Closed boxes:** 1
 - **Words (OCR):** 171 in 53 lines: WARe BEC · YST MS LT · CIRCUIT DESCRI PTION · H450A PROGRAM AMPLI FI ER · The · po hr supp · 'to · ge · t25 · vel · dc 15 ed 'tta sc · cn
 
-Every curve, box, word and wire group: [1977 - M450A - Program Amplifer p6 (traced).json](../MANUALS/1977%20-%20M450A%20-%20Program%20Amplifer%20p6%20(traced).json) (the CAD file: `1977 - M450A - Program Amplifer p6 (traced).dxf`).
+Every curve, box, word and wire group: [1977 - M450A - Program Amplifer p6 (traced).json](../MANUALS/1977%20-%20M450A%20-%20Program%20Amplifer%20p6%20%28traced%29.json) (the CAD file: `1977 - M450A - Program Amplifer p6 (traced).dxf`).
 
 ### Page 7
 
@@ -93,7 +93,7 @@ Every curve, box, word and wire group: [1977 - M450A - Program Amplifer p6 (trac
 - **Dots (junctions):** 1
 - **Words (OCR):** 19 in 12 lines: GAI ADJUSTMENT · M450A PROGRAM AMPLl · 40 · 30 · 20 · 10 · Res istance in ki ohms · ps · BS · tp · ht · 4-1
 
-Every curve, box, word and wire group: [1977 - M450A - Program Amplifer p7 (traced).json](../MANUALS/1977%20-%20M450A%20-%20Program%20Amplifer%20p7%20(traced).json) (the CAD file: `1977 - M450A - Program Amplifer p7 (traced).dxf`).
+Every curve, box, word and wire group: [1977 - M450A - Program Amplifer p7 (traced).json](../MANUALS/1977%20-%20M450A%20-%20Program%20Amplifer%20p7%20%28traced%29.json) (the CAD file: `1977 - M450A - Program Amplifer p7 (traced).dxf`).
 
 ### Page 8
 
@@ -103,7 +103,7 @@ Every curve, box, word and wire group: [1977 - M450A - Program Amplifer p7 (trac
 - **Closed boxes:** 2
 - **Words (OCR):** 188 in 122 lines: WARC -SECK SYS TEM LTC · PARTS LIST · "450A · PROGRAHAHPLIFIER · PART DESCRIPTIOH · HFG PART HUMBE · C1 · Capa~ itor 22 · ~F/25 · Sf!lIens · B41313·~5226-Z · C2
 
-Every curve, box, word and wire group: [1977 - M450A - Program Amplifer p8 (traced).json](../MANUALS/1977%20-%20M450A%20-%20Program%20Amplifer%20p8%20(traced).json) (the CAD file: `1977 - M450A - Program Amplifer p8 (traced).dxf`).
+Every curve, box, word and wire group: [1977 - M450A - Program Amplifer p8 (traced).json](../MANUALS/1977%20-%20M450A%20-%20Program%20Amplifer%20p8%20%28traced%29.json) (the CAD file: `1977 - M450A - Program Amplifer p8 (traced).dxf`).
 
 ### Page 9
 
@@ -114,7 +114,7 @@ Every curve, box, word and wire group: [1977 - M450A - Program Amplifer p8 (trac
 - **Closed boxes:** 1
 - **Words (OCR):** 98 in 81 lines: WA · CK SYSTEMS LTD · PARTS LI ST · M450A PROGRAM AMPLI FIER · PART DESCRIPTION · MFG · MFG PART HUM8ER · Olod~ · Mo · la · OO · CR3
 
-Every curve, box, word and wire group: [1977 - M450A - Program Amplifer p9 (traced).json](../MANUALS/1977%20-%20M450A%20-%20Program%20Amplifer%20p9%20(traced).json) (the CAD file: `1977 - M450A - Program Amplifer p9 (traced).dxf`).
+Every curve, box, word and wire group: [1977 - M450A - Program Amplifer p9 (traced).json](../MANUALS/1977%20-%20M450A%20-%20Program%20Amplifer%20p9%20%28traced%29.json) (the CAD file: `1977 - M450A - Program Amplifer p9 (traced).dxf`).
 
 ### Page 10
 
@@ -124,7 +124,7 @@ Every curve, box, word and wire group: [1977 - M450A - Program Amplifer p9 (trac
 - **Closed boxes:** 4; named: AHPLIFIER; DESCRIPTION
 - **Words (OCR):** 95 in 85 lines: WA · -SE · SY · LT · PARTS LIST · H450A · PROGRAH AHPLIFIER · PART DESCRIPTION · MFG · HFG PART /fUHBER · R1. · Res1~tor
 
-Every curve, box, word and wire group: [1977 - M450A - Program Amplifer p10 (traced).json](../MANUALS/1977%20-%20M450A%20-%20Program%20Amplifer%20p10%20(traced).json) (the CAD file: `1977 - M450A - Program Amplifer p10 (traced).dxf`).
+Every curve, box, word and wire group: [1977 - M450A - Program Amplifer p10 (traced).json](../MANUALS/1977%20-%20M450A%20-%20Program%20Amplifer%20p10%20%28traced%29.json) (the CAD file: `1977 - M450A - Program Amplifer p10 (traced).dxf`).
 
 ### Page 11
 
@@ -136,7 +136,7 @@ Every curve, box, word and wire group: [1977 - M450A - Program Amplifer p10 (tra
 - **Dots (junctions):** 1
 - **Words (OCR):** 48 in 22 lines: WA · -BECK SYS EMS TO · H450A · ROGRAM AMPLIF IER · PART DESCRIPTION · MFG PART NUMBER · RSI · Re sis to · Fac tory Se lected · RS2 · %11 51 620 · Phi lips
 
-Every curve, box, word and wire group: [1977 - M450A - Program Amplifer p11 (traced).json](../MANUALS/1977%20-%20M450A%20-%20Program%20Amplifer%20p11%20(traced).json) (the CAD file: `1977 - M450A - Program Amplifer p11 (traced).dxf`).
+Every curve, box, word and wire group: [1977 - M450A - Program Amplifer p11 (traced).json](../MANUALS/1977%20-%20M450A%20-%20Program%20Amplifer%20p11%20%28traced%29.json) (the CAD file: `1977 - M450A - Program Amplifer p11 (traced).dxf`).
 
 ### Page 12
 
@@ -147,7 +147,7 @@ Every curve, box, word and wire group: [1977 - M450A - Program Amplifer p11 (tra
 - **Closed boxes:** 9
 - **Words (OCR):** 184 in 138 lines: R3" · 10 · +24v · R47 · 22 · hI · Q«o · R7 · TlP$OB · 28 J2 · R37 · 330
 
-Every curve, box, word and wire group: [1977 - M450A - Program Amplifer p12 (traced).json](../MANUALS/1977%20-%20M450A%20-%20Program%20Amplifer%20p12%20(traced).json) (the CAD file: `1977 - M450A - Program Amplifer p12 (traced).dxf`).
+Every curve, box, word and wire group: [1977 - M450A - Program Amplifer p12 (traced).json](../MANUALS/1977%20-%20M450A%20-%20Program%20Amplifer%20p12%20%28traced%29.json) (the CAD file: `1977 - M450A - Program Amplifer p12 (traced).dxf`).
 
 ### Page 13
 
@@ -159,7 +159,7 @@ Every curve, box, word and wire group: [1977 - M450A - Program Amplifer p12 (tra
 - **Dots (junctions):** 1
 - **Words (OCR):** 156 in 112 lines: R3 11<7 · R52.HQ · RS..411! · 1lS2 · R38 · R24 151< · R6 m5 · G.W · Q8 · R44..!K.. · R3 · rJP 19
 
-Every curve, box, word and wire group: [1977 - M450A - Program Amplifer p13 (traced).json](../MANUALS/1977%20-%20M450A%20-%20Program%20Amplifer%20p13%20(traced).json) (the CAD file: `1977 - M450A - Program Amplifer p13 (traced).dxf`).
+Every curve, box, word and wire group: [1977 - M450A - Program Amplifer p13 (traced).json](../MANUALS/1977%20-%20M450A%20-%20Program%20Amplifer%20p13%20%28traced%29.json) (the CAD file: `1977 - M450A - Program Amplifer p13 (traced).dxf`).
 
 ### Page 14
 
@@ -170,7 +170,7 @@ Every curve, box, word and wire group: [1977 - M450A - Program Amplifer p13 (tra
 - **Closed boxes:** 41; named: 15; BS; ca
 - **Words (OCR):** 54 in 33 lines: Ii ct · ur · o~5 · +25v · N/C · 0'0' · Wo UT WI-I t-l · ~1Jl · IN PUT WlI,EN · Ul-\\-1HJ(4 A.MP · S-E.O ....50 · Crt/A
 
-Every curve, box, word and wire group: [1977 - M450A - Program Amplifer p14 (traced).json](../MANUALS/1977%20-%20M450A%20-%20Program%20Amplifer%20p14%20(traced).json) (the CAD file: `1977 - M450A - Program Amplifer p14 (traced).dxf`).
+Every curve, box, word and wire group: [1977 - M450A - Program Amplifer p14 (traced).json](../MANUALS/1977%20-%20M450A%20-%20Program%20Amplifer%20p14%20%28traced%29.json) (the CAD file: `1977 - M450A - Program Amplifer p14 (traced).dxf`).
 
 ## Full text
 
