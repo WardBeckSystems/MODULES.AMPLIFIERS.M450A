@@ -1,0 +1,56 @@
+{
+ "drawing": "Modules/AMPLIFIERS/M450A/MANUALS/1973 - M450A - Program Amplifer.pdf",
+ "page": 1,
+ "version": 1,
+ "trace": "_traces/8efef95ea947e6ea-p1.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1553, 2000],
+  "mm": [335.3, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "1", "pages": "14"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [0.2, 0.0, 307.9, 421.9],
+ "outlines": {
+  "line": {"rings": 35, "straight": {"n": 602, "mm": 3079.6}, "curved": {"n": 57, "mm": 85.3}},
+  "text": {"rings": 170, "straight": {"n": 1929, "mm": 2637.1}, "curved": {"n": 402, "mm": 647.7}},
+  "tb": {"rings": 2, "straight": {"n": 99, "mm": 301.9}, "curved": {"n": 5, "mm": 7.8}}
+ },
+ "circles": [],
+ "boxes": [],
+ "text": {
+  "words": 15,
+  "lines": [
+   {"mm": [119.4, 411.5, 258.4, 421.1], "text": "WARD-BECK SystemS"},
+   {"mm": [261.7, 411.3, 288.4, 421.8], "text": "LTD."},
+   {"mm": [49.4, 402.0, 284.1, 417.1], "text": "WBS 841 PAOGRESS AVENUE; SCARBOROUGH; ONTARIO AH 2X4"},
+   {"mm": [118.1, 399.8, 168.8, 406.3], "text": "TELEX: 08-23489"},
+   {"mm": [207.7, 399.6, 284.3, 406.6], "text": "TELEPHONE: 418/438-B660"},
+   {"mm": [128.5, 241.4, 201.9, 254.8], "text": "Ma50A"},
+   {"mm": [125.2, 230.6, 206.0, 238.7], "text": "PROGRAM AMPLIFIER"},
+   {"mm": [241.4, 29.4, 266.2, 39.0], "text": "Nov 77"},
+   {"mm": [76.4, 9.5, 110.3, 14.3], "text": "DESIGN AND"},
+   {"mm": [112.1, 9.5, 252.2, 14.8], "text": "MANUFACTUAE Of PROFESSIONAL ALDIO EOUIPMENT"}
+  ]
+ },
+ "title_block": {
+  "mm": [42.6, 393.5, 265.1, 429.9],
+  "from": "title-block words (training set)",
+  "text": ["WARD-BECK SystemS", "WBS 841 PAOGRESS AVENUE; SCARBOROUGH; ONTARIO AH 2X4", "TELEX: 08-23489", "TELEPHONE: 418/438-B660"]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 335 × 432 mm, 1553 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–308 mm across, 0–422 mm up",
+  "- **Outlines:** line 35 rings, 602 straight (3,080 mm) / 57 curved (85.3 mm); text 170 rings, 1,929 straight (2,637 mm) / 402 curved (648 mm); tb 2 rings, 99 straight (302 mm) / 5 curved (7.8 mm)",
+  "- **Words (OCR):** 15 in 10 lines: WARD-BECK SystemS · LTD. · WBS 841 PAOGRESS AVENUE; SCARBOROUGH; ONTARIO AH 2X4 · TELEX: 08-23489 · TELEPHONE: 418/438-B660 · Ma50A · PROGRAM AMPLIFIER · Nov 77 · DESIGN AND · MANUFACTUAE Of PROFESSIONAL ALDIO EOUIPMENT",
+  "- **Title block:** (43, 394)–(265, 430) mm: WARD-BECK SystemS · WBS 841 PAOGRESS AVENUE; SCARBOROUGH; ONTARIO AH 2X4 · TELEX: 08-23489 · TELEPHONE: 418/438-B660"
+ ]
+}

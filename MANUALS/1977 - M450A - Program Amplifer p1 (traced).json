@@ -1,0 +1,58 @@
+{
+ "drawing": "Modules/AMPLIFIERS/M450A/MANUALS/1977 - M450A - Program Amplifer.pdf",
+ "page": 1,
+ "version": 1,
+ "trace": "_traces/a08cf3c4c9af972a-p1.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1553, 2000],
+  "mm": [335.3, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "1", "pages": "14"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [0.2, 0.0, 309.8, 421.9],
+ "outlines": {
+  "line": {"rings": 114, "straight": {"n": 1651, "mm": 4599.4}, "curved": {"n": 247, "mm": 400.8}},
+  "text": {"rings": 68, "straight": {"n": 665, "mm": 866.6}, "curved": {"n": 163, "mm": 249.6}},
+  "tb": {"rings": 35, "straight": {"n": 404, "mm": 617.1}, "curved": {"n": 64, "mm": 106.2}}
+ },
+ "circles": [],
+ "boxes": [],
+ "text": {
+  "words": 17,
+  "lines": [
+   {"mm": [43.4, 401.1, 280.5, 417.9], "text": "['NBS] 841\"'l'ClQFlES8AVENUE,~c:N'T,t,FlQM'lH:a)("},
+   {"mm": [120.3, 411.5, 257.8, 418.9], "text": "WARD-BECK SYSTEMS"},
+   {"mm": [119.8, 399.6, 168.4, 403.9], "text": "Te..l!X: 08-234811"},
+   {"mm": [245.3, 399.6, 284.1, 403.9], "text": "A'l8 /4I:;JB ..-eo"},
+   {"mm": [209.4, 399.6, 243.3, 403.7], "text": "T'El..I!F'HCII':"},
+   {"mm": [128.9, 240.5, 202.3, 251.5], "text": "M450A"},
+   {"mm": [126.5, 230.4, 205.5, 236.8], "text": "PROGRAM AMPLIFIER"},
+   {"mm": [278.7, 65.0, 299.7, 74.1], "text": "ps"},
+   {"mm": [267.1, 53.5, 288.9, 65.1], "text": "BS"},
+   {"mm": [244.8, 31.1, 263.4, 38.3], "text": "tp"},
+   {"mm": [237.5, 24.0, 258.4, 31.2], "text": "ht"}
+  ]
+ },
+ "title_block": {
+  "mm": [113.6, 403.0, 264.5, 427.7],
+  "from": "title-block words (training set)",
+  "text": ["['NBS] 841\"'l'ClQFlES8AVENUE,~c:N'T,t,FlQM'lH:a)(", "WARD-BECK SYSTEMS"]
+ },
+ "dots": [{"c": [285.5, 414.4], "r": 1.0, "lines": 0}],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 335 × 432 mm, 1553 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–310 mm across, 0–422 mm up",
+  "- **Outlines:** line 114 rings, 1,651 straight (4,599 mm) / 247 curved (401 mm); text 68 rings, 665 straight (867 mm) / 163 curved (250 mm); tb 35 rings, 404 straight (617 mm) / 64 curved (106 mm)",
+  "- **Dots (junctions):** 1",
+  "- **Words (OCR):** 17 in 11 lines: ['NBS] 841\"'l'ClQFlES8AVENUE,~c:N'T,t,FlQM'lH:a)( · WARD-BECK SYSTEMS · Te..l!X: 08-234811 · A'l8 /4I:;JB ..-eo · T'El..I!F'HCII': · M450A · PROGRAM AMPLIFIER · ps · BS · tp · ht",
+  "- **Title block:** (114, 403)–(264, 428) mm: ['NBS] 841\"'l'ClQFlES8AVENUE,~c:N'T,t,FlQM'lH:a)( · WARD-BECK SYSTEMS"
+ ]
+}

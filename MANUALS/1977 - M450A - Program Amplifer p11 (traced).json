@@ -1,0 +1,68 @@
+{
+ "drawing": "Modules/AMPLIFIERS/M450A/MANUALS/1977 - M450A - Program Amplifer.pdf",
+ "page": 11,
+ "version": 1,
+ "trace": "_traces/a08cf3c4c9af972a-p11.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1553, 2000],
+  "mm": [335.3, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "11", "pages": "14"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [0.2, 0.0, 334.4, 415.8],
+ "outlines": {
+  "line": {"rings": 152, "straight": {"n": 2107, "mm": 4888.4}, "curved": {"n": 353, "mm": 568.5}},
+  "text": {"rings": 218, "straight": {"n": 1503, "mm": 1647.6}, "curved": {"n": 363, "mm": 581.8}}
+ },
+ "circles": [{"c": [93.5, 311.5], "r": 1.9, "kind": "circle", "span": 360, "from": ["outline (one edge)"]}],
+ "boxes": [
+  {"mm": [55.9, 412.4, 58.5, 414.5], "w": 2.6, "h": 2.2, "from": "ring"},
+  {"mm": [209.6, 349.3, 211.8, 354.3], "w": 2.2, "h": 5.0, "from": "ring"},
+  {"mm": [68.1, 289.7, 70.2, 294.5], "w": 2.1, "h": 4.8, "from": "ring"}
+ ],
+ "text": {
+  "words": 48,
+  "lines": [
+   {"mm": [35.4, 409.8, 48.8, 415.3], "text": "WA"},
+   {"mm": [62.0, 409.8, 149.2, 415.3], "text": "-BECK SYS EMS TO"},
+   {"mm": [125.0, 348.0, 144.4, 354.0], "text": "H450A"},
+   {"mm": [157.8, 348.0, 221.1, 354.0], "text": "ROGRAM AMPLIF IER"},
+   {"mm": [44.3, 321.5, 110.8, 327.5], "text": "PART DESCRIPTION"},
+   {"mm": [245.7, 320.4, 305.1, 326.4], "text": "MFG PART NUMBER"},
+   {"mm": [44.5, 308.1, 54.6, 314.1], "text": "RSI"},
+   {"mm": [68.7, 308.1, 94.3, 314.1], "text": "Re sis to"},
+   {"mm": [105.4, 308.1, 168.6, 314.1], "text": "Fac tory Se lected"},
+   {"mm": [44.3, 301.4, 55.5, 307.4], "text": "RS2"},
+   {"mm": [104.5, 301.4, 143.1, 307.4], "text": "%11 51 620"},
+   {"mm": [185.7, 301.4, 212.7, 307.4], "text": "Phi lips"},
+   {"mm": [76.9, 287.4, 140.6, 294.3], "text": "te ra te Circu it"},
+   {"mm": [185.7, 287.1, 221.1, 293.1], "text": "Fairc hild"},
+   {"mm": [246.1, 286.9, 266.0, 292.9], "text": "739 PC"},
+   {"mm": [68.7, 261.2, 74.5, 267.2], "text": "Zl"},
+   {"mm": [92.6, 261.2, 185.0, 267.2], "text": "Facto ry Selected by IIBS"},
+   {"mm": [278.7, 65.0, 299.7, 74.1], "text": "ps"},
+   {"mm": [267.1, 53.5, 288.9, 65.1], "text": "BS"},
+   {"mm": [244.8, 31.1, 263.4, 38.3], "text": "tp"},
+   {"mm": [237.5, 24.0, 258.4, 31.2], "text": "ht"},
+   {"mm": [166.0, 7.6, 176.0, 14.3], "text": "5-4"}
+  ]
+ },
+ "dots": [{"c": [150.0, 411.3], "r": 0.7, "lines": 0}],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 335 × 432 mm, 1553 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–334 mm across, 0–416 mm up",
+  "- **Outlines:** line 152 rings, 2,107 straight (4,888 mm) / 353 curved (568 mm); text 218 rings, 1,503 straight (1,648 mm) / 363 curved (582 mm)",
+  "- **Circles and arcs:** 1 circles, 0 arcs; largest r 1.9 @ (93.5, 311.5)",
+  "- **Closed boxes:** 3",
+  "- **Dots (junctions):** 1",
+  "- **Words (OCR):** 48 in 22 lines: WA · -BECK SYS EMS TO · H450A · ROGRAM AMPLIF IER · PART DESCRIPTION · MFG PART NUMBER · RSI · Re sis to · Fac tory Se lected · RS2 · %11 51 620 · Phi lips"
+ ]
+}

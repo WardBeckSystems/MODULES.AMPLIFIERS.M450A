@@ -1,0 +1,60 @@
+{
+ "drawing": "Modules/AMPLIFIERS/M450A/MANUALS/1977 - M450A - Program Amplifer.pdf",
+ "page": 2,
+ "version": 1,
+ "trace": "_traces/a08cf3c4c9af972a-p2.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1553, 2000],
+  "mm": [335.3, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "2", "pages": "14"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [0.2, 0.0, 327.7, 425.3],
+ "outlines": {
+  "line": {"rings": 148, "straight": {"n": 1840, "mm": 4610.7}, "curved": {"n": 327, "mm": 517.6}},
+  "text": {"rings": 362, "straight": {"n": 2840, "mm": 3352.3}, "curved": {"n": 709, "mm": 1102.7}}
+ },
+ "circles": [],
+ "boxes": [],
+ "text": {
+  "words": 34,
+  "lines": [
+   {"mm": [31.5, 412.8, 127.8, 419.0], "text": "WVfAC BECKS 3yrt0ms"},
+   {"mm": [134.9, 361.6, 206.0, 371.0], "text": "IABLE_QE_conMNIS"},
+   {"mm": [122.2, 349.1, 216.1, 358.5], "text": "Misoh_PROGRAY AHFLIFIER"},
+   {"mm": [53.5, 278.9, 82.0, 285.2], "text": "SECMA"},
+   {"mm": [230.4, 275.7, 247.6, 281.9], "text": "page"},
+   {"mm": [102.6, 258.4, 134.1, 264.7], "text": "Herrinty"},
+   {"mm": [105.8, 252.2, 134.3, 257.0], "text": "ennicu"},
+   {"mm": [101.0, 243.5, 178.3, 252.2], "text": "Cirera Descriveion"},
+   {"mm": [101.0, 237.9, 178.3, 244.2], "text": "circui Deseriocion"},
+   {"mm": [101.0, 231.7, 118.3, 237.9], "text": "Ga In"},
+   {"mm": [142.1, 231.7, 162.6, 236.5], "text": "Ment"},
+   {"mm": [101.0, 225.4, 141.8, 230.2], "text": "Taro St"},
+   {"mm": [101.0, 196.9, 134.1, 203.1], "text": "Trinlga"},
+   {"mm": [101.0, 178.1, 165.6, 184.4], "text": "050/ Schenadc"},
+   {"mm": [101.0, 170.1, 190.9, 178.1], "text": "0454G Condonen Lavnm"},
+   {"mm": [230.4, 170.1, 280.9, 176.4], "text": "44-171 06-0o2"},
+   {"mm": [101.0, 163.9, 194.1, 170.2], "text": "Lsu Lcnnector Larout"},
+   {"mm": [228.9, 163.9, 257.4, 168.7], "text": "Ue5u-Mc"},
+   {"mm": [228.9, 34.8, 306.1, 89.8], "text": "HAnuai 155mm CBSps:"},
+   {"mm": [227.1, 69.3, 244.4, 75.5], "text": "5EPT"}
+  ]
+ },
+ "dots": [{"c": [245.0, 70.7], "r": 0.7, "lines": 0}],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 335 × 432 mm, 1553 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–328 mm across, 0–425 mm up",
+  "- **Outlines:** line 148 rings, 1,840 straight (4,611 mm) / 327 curved (518 mm); text 362 rings, 2,840 straight (3,352 mm) / 709 curved (1,103 mm)",
+  "- **Dots (junctions):** 1",
+  "- **Words (OCR):** 34 in 20 lines: WVfAC BECKS 3yrt0ms · IABLE_QE_conMNIS · Misoh_PROGRAY AHFLIFIER · SECMA · page · Herrinty · ennicu · Cirera Descriveion · circui Deseriocion · Ga In · Ment · Taro St"
+ ]
+}
