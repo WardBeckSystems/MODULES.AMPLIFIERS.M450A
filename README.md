@@ -13,6 +13,24 @@ Ward-Beck Systems M450A, 1973|6. Wiki page: [M450A on WBSps.ca](https://wardbeck
 | [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 4 |
 | [OCR/](OCR/) | the note of every file: date, origin, title block, OCR text | 16 |
 
+<!-- module data: tools/module_specs.py, tools/forum_quotes.py -->
+
+**On the WBSps forum (2006|39 - 2014|47):** [3 topics](FORUM.md): what owners and technicians said about it.
+
+## Circuit description
+
+From [1973 - M450A - P005 - 3-1.jpg](MANUALS/1973%20-%20M450A%20-%20P005%20-%203-1.jpg) page 1 (read by OCR; check against the pages). As data: [`CircuitDescription.json`](CircuitDescription.json).
+
+<details><summary>Read it</summary>
+
+**N45OA PROGRAM AMPLIFIER**
+
+The two halves of the input signa] are applied to pins and of the edge connector and then proceed via on-board resistors to pins and of 21 presenting ba anced input of approximately 5k ohm to the gna source The two sections of ZI are fo]Towed by power booster transistors Q1, Q2, Q3 and Q4 Pins and of 21 are virtually at ground potential] from s igna 1 standpoint and it i5 impractica] to measure signa | VoLtage at these points The output of 21, pin summed through RI3 pin 8 of 21 _ Thus at C15, the sum of the two haves of the inputs igna ] will be present The gain of the M45oa maybe varied from 32 48 dB by exter_ na resistance combinations associated with pins 10 and 11 Effectively this changes the feedback Toop between pins 13 and of 21 Since the selection of the gain of each amplifier is determined by connections made on the receptacle rather than inside the amplifier a 1 1 M45oA amplifiers within any given system can be freely interchanged without affecting system specifications and operation Fo]owing the preamp] ifier output at C15 1$ 12 dB per octave 1ow iter comprised of R22 R52, R23, R24 C16, C18 8is; fimteingo Pei Bend fdth?beyona Eana. and the audio pass The signa] is then fed to pin of Z2 and subsequently to transistors Q9 Q10, Q11 and Q12 These transistors comprise one ha ] f of the power selection of the actively balanced amplifier output The signa from this half is fed through C23 to pin 13 of the edge connector The s igna for the second ha ] f of the amplifier output is routed to pin of 22 and fo 1owed by transistors Q5 Q6 Q7 and Q8 C28 serves couple the signa &quot; to pin 12 of the edge connector In all instances where the M450A i 5 used its output terminals 12 and 13 must be wired to the input termina and of WBS type 70-7 transformer The secondary of this trans former can be strapped to feed ther 150 or 600 ohm Toad
+
+</details>
+
+<!-- /module data -->
+
 ## Schematics
 
 _Electrical drawings: schematics (-02-), functional diagrams (-01-), component layouts (-06-), wiring (-09-), PCB files (.pcb .dsn), and beside each scan its `(EXTRACTED).svg`: the vectors traced from it._
