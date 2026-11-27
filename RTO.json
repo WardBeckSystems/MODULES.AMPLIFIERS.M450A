@@ -3,156 +3,485 @@
  "connector": "RTO-144",
  "type": "M450A - Program Amplifier",
  "series": null,
- "contacts": "ELCO 00-6007-015-940-002 · 15 contacts, single row",
+ "connectors": [
+  {
+   "name": "P1",
+   "kind": "elco",
+   "contacts": 15,
+   "rows": "1-15 single row",
+   "view": "rear",
+   "part": "ELCO # 00-6007-015-940-002"
+  }
+ ],
  "verified": "450-04-001 iss. 2 (June 1976), M450 and M450A connector layout (\"summing amp input N/A for M450A\")",
- "derived": false,
- "variant_of": null,
+ "built_from": {
+  "pictures": [
+   "M450/PINOUTS/1975 - M450 - P15 - Pin Out.pinout.json",
+   "M450/PINOUTS/1976 - 450-04-001 - AND M450A PROGRAM SUMMING AMPLIFIER CONNECTOR LAYOUT - DRN GEB - ISS 2.pinout.json",
+   "M450/PINOUTS/M450 - P15 - Pin Out.pinout.json",
+   "M450A/PINOUTS/1973 - M450A - 450-04-001 - CALE CONNECTOR LAYOUT.pinout.json",
+   "M450B/PINOUTS/1979 - M450B - P15 - Pin Outs.pinout.json",
+   "M450B/PINOUTS/M450B - P15 - Pin Outs(1).pinout.json",
+   "M450B/PINOUTS/M450B - P15 - Pin Outs.pinout.json"
+  ],
+  "sheet": "Engineering/RTO-144/M450A/M450A.rto144.json",
+  "sheet_agrees": "13 of 15"
+ },
  "pins": [
   {
-   "pin": "18",
-   "signal": "COMMON",
-   "kind": "ground",
-   "pair": null,
-   "polarity": null,
-   "confidence": "high",
-   "read_from": "rto-144",
-   "file": "Engineering/RTO-144/M450A/M450A.rto144.json",
-   "page": 1
-  },
-  {
-   "pin": "19",
-   "signal": "-25 V",
-   "kind": "power",
-   "pair": null,
-   "polarity": null,
-   "confidence": "high",
-   "read_from": "rto-144",
-   "file": "Engineering/RTO-144/M450A/M450A.rto144.json",
-   "page": 1
-  },
-  {
-   "pin": "20",
-   "signal": "COMMON",
-   "kind": "ground",
-   "pair": null,
-   "polarity": null,
-   "confidence": "high",
-   "read_from": "rto-144",
-   "file": "Engineering/RTO-144/M450A/M450A.rto144.json",
-   "page": 1
-  },
-  {
-   "pin": "21",
+   "connector": "P1",
+   "pin": "1",
+   "ref": "1",
+   "also": null,
+   "same_row": null,
    "signal": "+25 V",
    "kind": "power",
-   "pair": null,
+   "port": null,
    "polarity": null,
    "confidence": "high",
-   "read_from": "rto-144",
-   "file": "Engineering/RTO-144/M450A/M450A.rto144.json",
-   "page": 1
+   "read_from": [
+    "M450/PINOUTS/1975 - M450 - P15 - Pin Out.pinout.json",
+    "M450/PINOUTS/1976 - 450-04-001 - AND M450A PROGRAM SUMMING AMPLIFIER CONNECTOR LAYOUT - DRN GEB - ISS 2.pinout.json",
+    "M450/PINOUTS/M450 - P15 - Pin Out.pinout.json",
+    "M450A/PINOUTS/1973 - M450A - 450-04-001 - CALE CONNECTOR LAYOUT.pinout.json",
+    "M450B/PINOUTS/1979 - M450B - P15 - Pin Outs.pinout.json",
+    "M450B/PINOUTS/M450B - P15 - Pin Outs(1).pinout.json",
+    "M450B/PINOUTS/M450B - P15 - Pin Outs.pinout.json"
+   ],
+   "sheet": {
+    "signal": "VCC-AUDIO",
+    "kind": "power",
+    "agrees": true
+   }
   },
   {
-   "pin": "B",
-   "signal": "TYPE ELCO OO -6007-015-940-002",
-   "kind": "other",
-   "pair": null,
+   "connector": "P1",
+   "pin": "2",
+   "ref": "2",
+   "also": null,
+   "same_row": null,
+   "signal": "N/C",
+   "kind": "nc",
+   "port": null,
    "polarity": null,
-   "confidence": "medium",
-   "read_from": "drawing rows",
-   "file": "Modules/AMPLIFIERS/M450A/PINOUTS/1973 - M450A - 450-04-001 - CALE CONNECTOR LAYOUT.jpg",
-   "page": 1
+   "confidence": "high",
+   "read_from": [
+    "M450/PINOUTS/1975 - M450 - P15 - Pin Out.pinout.json",
+    "M450/PINOUTS/1976 - 450-04-001 - AND M450A PROGRAM SUMMING AMPLIFIER CONNECTOR LAYOUT - DRN GEB - ISS 2.pinout.json",
+    "M450/PINOUTS/M450 - P15 - Pin Out.pinout.json",
+    "M450A/PINOUTS/1973 - M450A - 450-04-001 - CALE CONNECTOR LAYOUT.pinout.json",
+    "M450B/PINOUTS/1979 - M450B - P15 - Pin Outs.pinout.json",
+    "M450B/PINOUTS/M450B - P15 - Pin Outs(1).pinout.json",
+    "M450B/PINOUTS/M450B - P15 - Pin Outs.pinout.json"
+   ],
+   "sheet": {
+    "signal": "N/C",
+    "kind": "nc",
+    "agrees": true
+   }
   },
   {
-   "pin": "M",
-   "signal": "AHEN",
-   "kind": "other",
-   "pair": null,
-   "polarity": null,
-   "confidence": "medium",
-   "read_from": "drawing rows",
-   "file": "Modules/AMPLIFIERS/M450A/PINOUTS/1973 - M450A - 450-04-001 - CALE CONNECTOR LAYOUT.jpg",
-   "page": 1
-  },
-  {
-   "pin": "N",
-   "signal": "INPUT WHEN",
+   "connector": "P1",
+   "pin": "3",
+   "ref": "3",
+   "also": null,
+   "same_row": null,
+   "signal": "SUMMING INPUT",
    "kind": "in",
-   "pair": null,
+   "port": "SUMMING INPUT",
    "polarity": null,
-   "confidence": "medium",
-   "read_from": "drawing rows",
-   "file": "Modules/AMPLIFIERS/M450A/PINOUTS/1973 - M450A - 450-04-001 - CALE CONNECTOR LAYOUT.jpg",
-   "page": 1
+   "confidence": "high",
+   "read_from": [
+    "M450/PINOUTS/1975 - M450 - P15 - Pin Out.pinout.json",
+    "M450/PINOUTS/1976 - 450-04-001 - AND M450A PROGRAM SUMMING AMPLIFIER CONNECTOR LAYOUT - DRN GEB - ISS 2.pinout.json",
+    "M450/PINOUTS/M450 - P15 - Pin Out.pinout.json",
+    "M450A/PINOUTS/1973 - M450A - 450-04-001 - CALE CONNECTOR LAYOUT.pinout.json",
+    "M450B/PINOUTS/1979 - M450B - P15 - Pin Outs.pinout.json",
+    "M450B/PINOUTS/M450B - P15 - Pin Outs(1).pinout.json",
+    "M450B/PINOUTS/M450B - P15 - Pin Outs.pinout.json"
+   ],
+   "sheet": {
+    "signal": "N/A ON M450A",
+    "kind": "nc",
+    "agrees": false
+   }
   },
   {
-   "pin": "P",
-   "signal": "USED AS",
-   "kind": "other",
-   "pair": null,
+   "connector": "P1",
+   "pin": "4",
+   "ref": "4",
+   "also": null,
+   "same_row": null,
+   "signal": "PROGRAM INPUT",
+   "kind": "in",
+   "port": "PROGRAM INPUT",
    "polarity": null,
-   "confidence": "medium",
-   "read_from": "drawing rows",
-   "file": "Modules/AMPLIFIERS/M450A/PINOUTS/1973 - M450A - 450-04-001 - CALE CONNECTOR LAYOUT.jpg",
-   "page": 1
+   "confidence": "high",
+   "read_from": [
+    "M450/PINOUTS/1975 - M450 - P15 - Pin Out.pinout.json",
+    "M450/PINOUTS/1976 - 450-04-001 - AND M450A PROGRAM SUMMING AMPLIFIER CONNECTOR LAYOUT - DRN GEB - ISS 2.pinout.json",
+    "M450/PINOUTS/M450 - P15 - Pin Out.pinout.json",
+    "M450A/PINOUTS/1973 - M450A - 450-04-001 - CALE CONNECTOR LAYOUT.pinout.json",
+    "M450B/PINOUTS/1979 - M450B - P15 - Pin Outs.pinout.json",
+    "M450B/PINOUTS/M450B - P15 - Pin Outs(1).pinout.json",
+    "M450B/PINOUTS/M450B - P15 - Pin Outs.pinout.json"
+   ],
+   "sheet": {
+    "signal": "PROGRAM INPUT +",
+    "kind": "in",
+    "agrees": true
+   }
   },
   {
-   "pin": "S",
+   "connector": "P1",
+   "pin": "5",
+   "ref": "5",
+   "also": null,
+   "same_row": null,
+   "signal": "SUMMING INPUT",
+   "kind": "in",
+   "port": "SUMMING INPUT",
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M450/PINOUTS/1975 - M450 - P15 - Pin Out.pinout.json",
+    "M450/PINOUTS/1976 - 450-04-001 - AND M450A PROGRAM SUMMING AMPLIFIER CONNECTOR LAYOUT - DRN GEB - ISS 2.pinout.json",
+    "M450/PINOUTS/M450 - P15 - Pin Out.pinout.json",
+    "M450A/PINOUTS/1973 - M450A - 450-04-001 - CALE CONNECTOR LAYOUT.pinout.json",
+    "M450B/PINOUTS/1979 - M450B - P15 - Pin Outs.pinout.json",
+    "M450B/PINOUTS/M450B - P15 - Pin Outs(1).pinout.json",
+    "M450B/PINOUTS/M450B - P15 - Pin Outs.pinout.json"
+   ],
+   "sheet": {
+    "signal": "N/A ON M450A",
+    "kind": "nc",
+    "agrees": false
+   }
+  },
+  {
+   "connector": "P1",
+   "pin": "6",
+   "ref": "6",
+   "also": null,
+   "same_row": null,
+   "signal": "PROGRAM INPUT",
+   "kind": "in",
+   "port": "PROGRAM INPUT",
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M450/PINOUTS/1975 - M450 - P15 - Pin Out.pinout.json",
+    "M450/PINOUTS/1976 - 450-04-001 - AND M450A PROGRAM SUMMING AMPLIFIER CONNECTOR LAYOUT - DRN GEB - ISS 2.pinout.json",
+    "M450/PINOUTS/M450 - P15 - Pin Out.pinout.json",
+    "M450A/PINOUTS/1973 - M450A - 450-04-001 - CALE CONNECTOR LAYOUT.pinout.json",
+    "M450B/PINOUTS/1979 - M450B - P15 - Pin Outs.pinout.json",
+    "M450B/PINOUTS/M450B - P15 - Pin Outs(1).pinout.json",
+    "M450B/PINOUTS/M450B - P15 - Pin Outs.pinout.json"
+   ],
+   "sheet": {
+    "signal": "PROGRAM INPUT -",
+    "kind": "in",
+    "agrees": true
+   }
+  },
+  {
+   "connector": "P1",
+   "pin": "7",
+   "ref": "7",
+   "also": null,
+   "same_row": null,
    "signal": "INPUT SHIELD",
-   "kind": "ground",
-   "pair": null,
-   "polarity": null,
-   "confidence": "medium",
-   "read_from": "drawing rows",
-   "file": "Modules/AMPLIFIERS/M450A/PINOUTS/1973 - M450A - 450-04-001 - CALE CONNECTOR LAYOUT.jpg",
-   "page": 1
+   "kind": "shield",
+   "port": "PROGRAM INPUT",
+   "polarity": "shield",
+   "confidence": "high",
+   "read_from": [
+    "M450/PINOUTS/1975 - M450 - P15 - Pin Out.pinout.json",
+    "M450/PINOUTS/1976 - 450-04-001 - AND M450A PROGRAM SUMMING AMPLIFIER CONNECTOR LAYOUT - DRN GEB - ISS 2.pinout.json",
+    "M450/PINOUTS/M450 - P15 - Pin Out.pinout.json",
+    "M450A/PINOUTS/1973 - M450A - 450-04-001 - CALE CONNECTOR LAYOUT.pinout.json",
+    "M450B/PINOUTS/1979 - M450B - P15 - Pin Outs.pinout.json",
+    "M450B/PINOUTS/M450B - P15 - Pin Outs(1).pinout.json",
+    "M450B/PINOUTS/M450B - P15 - Pin Outs.pinout.json"
+   ],
+   "sheet": {
+    "signal": "INPUT SHIELD",
+    "kind": "ground",
+    "agrees": true
+   }
   },
   {
-   "pin": "V",
+   "connector": "P1",
+   "pin": "8",
+   "ref": "8",
+   "also": null,
+   "same_row": null,
+   "signal": "COMMON",
+   "kind": "ground",
+   "port": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M450/PINOUTS/1975 - M450 - P15 - Pin Out.pinout.json",
+    "M450/PINOUTS/1976 - 450-04-001 - AND M450A PROGRAM SUMMING AMPLIFIER CONNECTOR LAYOUT - DRN GEB - ISS 2.pinout.json",
+    "M450/PINOUTS/M450 - P15 - Pin Out.pinout.json",
+    "M450A/PINOUTS/1973 - M450A - 450-04-001 - CALE CONNECTOR LAYOUT.pinout.json",
+    "M450B/PINOUTS/1979 - M450B - P15 - Pin Outs.pinout.json",
+    "M450B/PINOUTS/M450B - P15 - Pin Outs(1).pinout.json",
+    "M450B/PINOUTS/M450B - P15 - Pin Outs.pinout.json"
+   ],
+   "sheet": {
+    "signal": "GND",
+    "kind": "ground",
+    "agrees": true
+   }
+  },
+  {
+   "connector": "P1",
+   "pin": "9",
+   "ref": "9",
+   "also": null,
+   "same_row": null,
    "signal": "GAIN SET",
    "kind": "other",
-   "pair": null,
-   "polarity": null,
-   "confidence": "medium",
-   "read_from": "drawing rows",
-   "file": "Modules/AMPLIFIERS/M450A/PINOUTS/1973 - M450A - 450-04-001 - CALE CONNECTOR LAYOUT.jpg",
-   "page": 1
-  },
-  {
-   "pin": "Y",
-   "signal": "+24 V",
-   "kind": "power",
-   "pair": null,
+   "port": "GAIN SET",
    "polarity": null,
    "confidence": "high",
-   "read_from": "rto-144",
-   "file": "Engineering/RTO-144/M450A/M450A.rto144.json",
-   "page": 1
-  }
- ],
- "straps": [],
- "power": [
-  {
-   "rail": "VCC-AUDIO",
-   "style": null,
-   "volts": 25,
-   "max_a": null,
-   "supply": "1",
-   "ground": "8",
-   "link": null
+   "read_from": [
+    "M450/PINOUTS/1975 - M450 - P15 - Pin Out.pinout.json",
+    "M450/PINOUTS/1976 - 450-04-001 - AND M450A PROGRAM SUMMING AMPLIFIER CONNECTOR LAYOUT - DRN GEB - ISS 2.pinout.json",
+    "M450/PINOUTS/M450 - P15 - Pin Out.pinout.json",
+    "M450A/PINOUTS/1973 - M450A - 450-04-001 - CALE CONNECTOR LAYOUT.pinout.json",
+    "M450B/PINOUTS/1979 - M450B - P15 - Pin Outs.pinout.json",
+    "M450B/PINOUTS/M450B - P15 - Pin Outs(1).pinout.json",
+    "M450B/PINOUTS/M450B - P15 - Pin Outs.pinout.json"
+   ],
+   "sheet": {
+    "signal": "GAIN SET",
+    "kind": "strap",
+    "agrees": true
+   }
   },
   {
-   "rail": "VEE-AUDIO",
-   "style": null,
-   "volts": -25,
-   "max_a": null,
-   "supply": "15",
-   "ground": "8",
-   "link": null
+   "connector": "P1",
+   "pin": "10",
+   "ref": "10",
+   "also": null,
+   "same_row": null,
+   "signal": "GAIN SET",
+   "kind": "other",
+   "port": "GAIN SET",
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M450/PINOUTS/1975 - M450 - P15 - Pin Out.pinout.json",
+    "M450/PINOUTS/1976 - 450-04-001 - AND M450A PROGRAM SUMMING AMPLIFIER CONNECTOR LAYOUT - DRN GEB - ISS 2.pinout.json",
+    "M450/PINOUTS/M450 - P15 - Pin Out.pinout.json",
+    "M450A/PINOUTS/1973 - M450A - 450-04-001 - CALE CONNECTOR LAYOUT.pinout.json",
+    "M450B/PINOUTS/1979 - M450B - P15 - Pin Outs.pinout.json",
+    "M450B/PINOUTS/M450B - P15 - Pin Outs(1).pinout.json",
+    "M450B/PINOUTS/M450B - P15 - Pin Outs.pinout.json"
+   ],
+   "sheet": {
+    "signal": "GAIN SET",
+    "kind": "strap",
+    "agrees": true
+   }
+  },
+  {
+   "connector": "P1",
+   "pin": "11",
+   "ref": "11",
+   "also": null,
+   "same_row": null,
+   "signal": "GAIN SET",
+   "kind": "other",
+   "port": "GAIN SET",
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M450/PINOUTS/1975 - M450 - P15 - Pin Out.pinout.json",
+    "M450/PINOUTS/1976 - 450-04-001 - AND M450A PROGRAM SUMMING AMPLIFIER CONNECTOR LAYOUT - DRN GEB - ISS 2.pinout.json",
+    "M450/PINOUTS/M450 - P15 - Pin Out.pinout.json",
+    "M450A/PINOUTS/1973 - M450A - 450-04-001 - CALE CONNECTOR LAYOUT.pinout.json",
+    "M450B/PINOUTS/1979 - M450B - P15 - Pin Outs.pinout.json",
+    "M450B/PINOUTS/M450B - P15 - Pin Outs(1).pinout.json",
+    "M450B/PINOUTS/M450B - P15 - Pin Outs.pinout.json"
+   ],
+   "sheet": {
+    "signal": "GAIN SET",
+    "kind": "strap",
+    "agrees": true
+   }
+  },
+  {
+   "connector": "P1",
+   "pin": "12",
+   "ref": "12",
+   "also": null,
+   "same_row": null,
+   "signal": "OUTPUT",
+   "kind": "out",
+   "port": "OUTPUT",
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M450/PINOUTS/1975 - M450 - P15 - Pin Out.pinout.json",
+    "M450/PINOUTS/1976 - 450-04-001 - AND M450A PROGRAM SUMMING AMPLIFIER CONNECTOR LAYOUT - DRN GEB - ISS 2.pinout.json",
+    "M450/PINOUTS/M450 - P15 - Pin Out.pinout.json",
+    "M450A/PINOUTS/1973 - M450A - 450-04-001 - CALE CONNECTOR LAYOUT.pinout.json",
+    "M450B/PINOUTS/1979 - M450B - P15 - Pin Outs.pinout.json",
+    "M450B/PINOUTS/M450B - P15 - Pin Outs(1).pinout.json",
+    "M450B/PINOUTS/M450B - P15 - Pin Outs.pinout.json"
+   ],
+   "sheet": {
+    "signal": "OUTPUT +",
+    "kind": "out",
+    "agrees": true
+   }
+  },
+  {
+   "connector": "P1",
+   "pin": "13",
+   "ref": "13",
+   "also": null,
+   "same_row": null,
+   "signal": "OUTPUT",
+   "kind": "out",
+   "port": "OUTPUT",
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M450/PINOUTS/1975 - M450 - P15 - Pin Out.pinout.json",
+    "M450/PINOUTS/1976 - 450-04-001 - AND M450A PROGRAM SUMMING AMPLIFIER CONNECTOR LAYOUT - DRN GEB - ISS 2.pinout.json",
+    "M450/PINOUTS/M450 - P15 - Pin Out.pinout.json",
+    "M450A/PINOUTS/1973 - M450A - 450-04-001 - CALE CONNECTOR LAYOUT.pinout.json",
+    "M450B/PINOUTS/1979 - M450B - P15 - Pin Outs.pinout.json",
+    "M450B/PINOUTS/M450B - P15 - Pin Outs(1).pinout.json",
+    "M450B/PINOUTS/M450B - P15 - Pin Outs.pinout.json"
+   ],
+   "sheet": {
+    "signal": "OUTPUT -",
+    "kind": "out",
+    "agrees": true
+   }
+  },
+  {
+   "connector": "P1",
+   "pin": "14",
+   "ref": "14",
+   "also": null,
+   "same_row": null,
+   "signal": "N/C",
+   "kind": "nc",
+   "port": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M450/PINOUTS/1975 - M450 - P15 - Pin Out.pinout.json",
+    "M450/PINOUTS/1976 - 450-04-001 - AND M450A PROGRAM SUMMING AMPLIFIER CONNECTOR LAYOUT - DRN GEB - ISS 2.pinout.json",
+    "M450/PINOUTS/M450 - P15 - Pin Out.pinout.json",
+    "M450A/PINOUTS/1973 - M450A - 450-04-001 - CALE CONNECTOR LAYOUT.pinout.json",
+    "M450B/PINOUTS/1979 - M450B - P15 - Pin Outs.pinout.json",
+    "M450B/PINOUTS/M450B - P15 - Pin Outs(1).pinout.json",
+    "M450B/PINOUTS/M450B - P15 - Pin Outs.pinout.json"
+   ],
+   "sheet": {
+    "signal": "N/C",
+    "kind": "nc",
+    "agrees": true
+   }
+  },
+  {
+   "connector": "P1",
+   "pin": "15",
+   "ref": "15",
+   "also": null,
+   "same_row": null,
+   "signal": "-25 V",
+   "kind": "power",
+   "port": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M450/PINOUTS/1975 - M450 - P15 - Pin Out.pinout.json",
+    "M450/PINOUTS/1976 - 450-04-001 - AND M450A PROGRAM SUMMING AMPLIFIER CONNECTOR LAYOUT - DRN GEB - ISS 2.pinout.json",
+    "M450/PINOUTS/M450 - P15 - Pin Out.pinout.json",
+    "M450A/PINOUTS/1973 - M450A - 450-04-001 - CALE CONNECTOR LAYOUT.pinout.json",
+    "M450B/PINOUTS/1979 - M450B - P15 - Pin Outs.pinout.json",
+    "M450B/PINOUTS/M450B - P15 - Pin Outs(1).pinout.json",
+    "M450B/PINOUTS/M450B - P15 - Pin Outs.pinout.json"
+   ],
+   "sheet": {
+    "signal": "VEE-AUDIO",
+    "kind": "power",
+    "agrees": true
+   }
   }
  ],
- "sources": [
-  "Engineering/RTO-144/M450A/M450A.rto144.json",
-  "Modules/AMPLIFIERS/M450A/PINOUTS/1973 - M450A - 450-04-001 - CALE CONNECTOR LAYOUT.jpg"
+ "ports": [
+  {
+   "name": "PROGRAM INPUT",
+   "dir": "in",
+   "pins": {
+    "a": "P1-4",
+    "b": "P1-6",
+    "shield": "P1-7"
+   }
+  },
+  {
+   "name": "SUMMING INPUT",
+   "dir": "in",
+   "pins": {
+    "a": "P1-3",
+    "b": "P1-5"
+   }
+  },
+  {
+   "name": "OUTPUT",
+   "dir": "out",
+   "pins": {
+    "a": "P1-12",
+    "b": "P1-13"
+   }
+  }
+ ],
+ "inserts": [],
+ "straps": [
+  {
+   "name": "GAIN SET",
+   "pins": [
+    "P1-9",
+    "P1-10",
+    "P1-11"
+   ],
+   "note": "Three contacts bracketed 'GAIN SET'; how they are strapped is not drawn"
+  }
+ ],
+ "conflicts": [
+  {
+   "pin": "P1-3",
+   "kept": "SUMMING INPUT (in)",
+   "other": "N/A ON M450A (nc)",
+   "from": "RTO-144 sheet"
+  },
+  {
+   "pin": "P1-5",
+   "kept": "SUMMING INPUT (in)",
+   "other": "N/A ON M450A (nc)",
+   "from": "RTO-144 sheet"
+  }
+ ],
+ "to_check": [
+  {
+   "what": "disagree",
+   "pin": "P1-3",
+   "detail": "kept SUMMING INPUT (in); RTO-144 sheet says N/A ON M450A (nc)"
+  },
+  {
+   "what": "disagree",
+   "pin": "P1-5",
+   "detail": "kept SUMMING INPUT (in); RTO-144 sheet says N/A ON M450A (nc)"
+  }
  ]
 }

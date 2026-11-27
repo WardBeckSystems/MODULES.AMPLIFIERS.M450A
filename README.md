@@ -51,21 +51,32 @@ Not on Google Drive yet: `M450A - RTO-144 Connections.pdf`
 
 ## RTO-144 pinout
 
-ELCO 00-6007-015-940-002 · 15 contacts, single row; checked against 450-04-001 iss. 2 (June 1976), M450 and M450A connector layout ("summing amp input N/A for M450A"). Every contact, with where it was read: [`RTO.json`](RTO.json).
+Read from 7 pinout pictures (each its own `.pinout.json` beside it); the RTO-144 sheet agrees on 13 of 15 contacts; 2 to check (`conflicts`). Every contact, with where it was read: [`RTO.json`](RTO.json). How a picture becomes this table: [the pinout decision tree](https://github.com/WardBeckSystems/WBSps.ca/blob/main/2026/Engineering/PINOUTS.md).
 
-| Pin | Signal | Kind | Pair | Confidence |
+**To check:**
+
+- disagree P1-3: kept SUMMING INPUT (in); RTO-144 sheet says N/A ON M450A (nc)
+- disagree P1-5: kept SUMMING INPUT (in); RTO-144 sheet says N/A ON M450A (nc)
+
+| Pin | Signal | Kind | Port | Confidence |
 |---|---|---|---|---|
-| 18 | COMMON | ground |  | high |
-| 19 | -25 V | power |  | high |
-| 20 | COMMON | ground |  | high |
-| 21 | +25 V | power |  | high |
-| B | TYPE ELCO OO -6007-015-940-002 | other |  | medium |
-| M | AHEN | other |  | medium |
-| N | INPUT WHEN | in |  | medium |
-| P | USED AS | other |  | medium |
-| S | INPUT SHIELD | ground |  | medium |
-| V | GAIN SET | other |  | medium |
-| Y | +24 V | power |  | high |
+| 1 | +25 V | power |  | high |
+| 2 | N/C | nc |  | high |
+| 3 | SUMMING INPUT | in | SUMMING INPUT | high |
+| 4 | PROGRAM INPUT | in | PROGRAM INPUT | high |
+| 5 | SUMMING INPUT | in | SUMMING INPUT | high |
+| 6 | PROGRAM INPUT | in | PROGRAM INPUT | high |
+| 7 | INPUT SHIELD | shield | PROGRAM INPUT shield | high |
+| 8 | COMMON | ground |  | high |
+| 9 | GAIN SET | other | GAIN SET | high |
+| 10 | GAIN SET | other | GAIN SET | high |
+| 11 | GAIN SET | other | GAIN SET | high |
+| 12 | OUTPUT | out | OUTPUT | high |
+| 13 | OUTPUT | out | OUTPUT | high |
+| 14 | N/C | nc |  | high |
+| 15 | -25 V | power |  | high |
+
+**Straps:** GAIN SET: P1-9 P1-10 P1-11
 
 ## Manuals and documents
 

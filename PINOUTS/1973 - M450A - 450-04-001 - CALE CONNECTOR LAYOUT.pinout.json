@@ -1,0 +1,224 @@
+{
+ "schema": "wbs-pinout/1",
+ "picture": "1973 - M450A - 450-04-001 - CALE CONNECTOR LAYOUT.jpg",
+ "module": "M450A",
+ "applies_to": [
+  "M450",
+  "M450A"
+ ],
+ "pinout": true,
+ "drawing": {
+  "number": "450-04-001",
+  "title": "M450 AND M450A PROGRAM/SUMMING AMPLIFIER CONNECTOR LAYOUT",
+  "date": "1976-06",
+  "issue": "2",
+  "drawn": "GEB"
+ },
+ "connectors": [
+  {
+   "name": "P1",
+   "kind": "elco",
+   "contacts": 15,
+   "rows": "1-15 single row",
+   "view": "rear",
+   "part": "ELCO # 00-6007-015-940-002"
+  }
+ ],
+ "pins": [
+  {
+   "connector": "P1",
+   "pin": "1",
+   "also": null,
+   "as_drawn": "+25V",
+   "signal": "+25 V",
+   "kind": "power",
+   "port": null,
+   "polarity": null
+  },
+  {
+   "connector": "P1",
+   "pin": "2",
+   "also": null,
+   "as_drawn": "N/C",
+   "signal": "N/C",
+   "kind": "nc",
+   "port": null,
+   "polarity": null
+  },
+  {
+   "connector": "P1",
+   "pin": "3",
+   "also": null,
+   "as_drawn": "INPUT WHEN USED AS SUMMING AMP (N/A FOR M450A)",
+   "signal": "SUMMING INPUT",
+   "kind": "in",
+   "port": "SUMMING INPUT",
+   "polarity": null
+  },
+  {
+   "connector": "P1",
+   "pin": "4",
+   "also": null,
+   "as_drawn": "INPUT WHEN USED AS PROGRAM AMP",
+   "signal": "PROGRAM INPUT",
+   "kind": "in",
+   "port": "PROGRAM INPUT",
+   "polarity": null
+  },
+  {
+   "connector": "P1",
+   "pin": "5",
+   "also": null,
+   "as_drawn": "INPUT WHEN USED AS SUMMING AMP (N/A FOR M450A)",
+   "signal": "SUMMING INPUT",
+   "kind": "in",
+   "port": "SUMMING INPUT",
+   "polarity": null
+  },
+  {
+   "connector": "P1",
+   "pin": "6",
+   "also": null,
+   "as_drawn": "INPUT WHEN USED AS PROGRAM AMP",
+   "signal": "PROGRAM INPUT",
+   "kind": "in",
+   "port": "PROGRAM INPUT",
+   "polarity": null
+  },
+  {
+   "connector": "P1",
+   "pin": "7",
+   "also": null,
+   "as_drawn": "INPUT SHIELD",
+   "signal": "INPUT SHIELD",
+   "kind": "shield",
+   "port": "PROGRAM INPUT",
+   "polarity": "shield"
+  },
+  {
+   "connector": "P1",
+   "pin": "8",
+   "also": null,
+   "as_drawn": "COMMON",
+   "signal": "COMMON",
+   "kind": "ground",
+   "port": null,
+   "polarity": null
+  },
+  {
+   "connector": "P1",
+   "pin": "9",
+   "also": null,
+   "as_drawn": "GAIN SET",
+   "signal": "GAIN SET",
+   "kind": "other",
+   "port": "GAIN SET",
+   "polarity": null
+  },
+  {
+   "connector": "P1",
+   "pin": "10",
+   "also": null,
+   "as_drawn": "GAIN SET",
+   "signal": "GAIN SET",
+   "kind": "other",
+   "port": "GAIN SET",
+   "polarity": null
+  },
+  {
+   "connector": "P1",
+   "pin": "11",
+   "also": null,
+   "as_drawn": "GAIN SET",
+   "signal": "GAIN SET",
+   "kind": "other",
+   "port": "GAIN SET",
+   "polarity": null
+  },
+  {
+   "connector": "P1",
+   "pin": "12",
+   "also": null,
+   "as_drawn": "OUTPUT",
+   "signal": "OUTPUT",
+   "kind": "out",
+   "port": "OUTPUT",
+   "polarity": null
+  },
+  {
+   "connector": "P1",
+   "pin": "13",
+   "also": null,
+   "as_drawn": "OUTPUT",
+   "signal": "OUTPUT",
+   "kind": "out",
+   "port": "OUTPUT",
+   "polarity": null
+  },
+  {
+   "connector": "P1",
+   "pin": "14",
+   "also": null,
+   "as_drawn": "N/C",
+   "signal": "N/C",
+   "kind": "nc",
+   "port": null,
+   "polarity": null
+  },
+  {
+   "connector": "P1",
+   "pin": "15",
+   "also": null,
+   "as_drawn": "-25V",
+   "signal": "-25 V",
+   "kind": "power",
+   "port": null,
+   "polarity": null
+  }
+ ],
+ "ports": [
+  {
+   "name": "PROGRAM INPUT",
+   "dir": "in",
+   "pins": {
+    "a": "P1-4",
+    "b": "P1-6",
+    "shield": "P1-7"
+   }
+  },
+  {
+   "name": "SUMMING INPUT",
+   "dir": "in",
+   "pins": {
+    "a": "P1-3",
+    "b": "P1-5"
+   }
+  },
+  {
+   "name": "OUTPUT",
+   "dir": "out",
+   "pins": {
+    "a": "P1-12",
+    "b": "P1-13"
+   }
+  }
+ ],
+ "inserts": [],
+ "straps": [
+  {
+   "name": "GAIN SET",
+   "pins": [
+    "P1-9",
+    "P1-10",
+    "P1-11"
+   ],
+   "note": "Three contacts bracketed 'GAIN SET'; how they are strapped is not drawn"
+  }
+ ],
+ "unread": [
+  "CKD. signature",
+  "Initials in the ISS./MOD./CKD. revision row (reads 'ISS 2, MOD 2908', checker initials unclear)"
+ ],
+ "confidence": "high",
+ "notes": "Hand-lettered sheet, one 15-pin connector, 'REAR VIEW OF CONNECTOR', 'CONNECTOR TYPE: ELCO # 00-6007-015-940-002'. The drawing names no connector, so it is called P1. Left bracket: 'INPUT WHEN USED AS PROGRAM AMP' ties to pins 4 and 6. Right bracket: 'INPUT WHEN USED AS SUMMING AMP (N/A FOR M450A)' ties to pins 3 and 5, so on the M450A only 4/6 is the input. No +/- polarity drawn on inputs or OUTPUT (12/13), so ports use 'a'/'b'. INPUT SHIELD 7 is assumed to belong to the program input (the drawing just says INPUT SHIELD). Title block: Ward-Beck Systems Ltd., 450-04-001, size A, ISS. 2, DRN. GEB, DATE JUNE 76 (file name says 1973), CKD. signed. No insert."
+}
