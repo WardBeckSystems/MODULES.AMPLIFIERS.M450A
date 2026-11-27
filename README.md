@@ -1,16 +1,16 @@
-# M450A · Amplifiers
+# M450A Program Summing Amplifier · Amplifiers
 
 Ward-Beck Systems M450A, 1973|6. Wiki page: [M450A on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/PAGES/M450A.html)
 
 | Folder | What is in it | Files |
 |---|---|---|
-| [SCHEMATICS/](SCHEMATICS/) | electrical drawings: schematics, functional diagrams, component layouts, wiring | 8 |
-| [MECHANICAL/](MECHANICAL/) | front panels, cover plates, metalwork, assemblies; the front panel as vectors | 0 |
-| [PINOUTS/](PINOUTS/) | the RTO-144 connector: connection sheets, connector layouts, rear views | 9 |
-| [MANUALS/](MANUALS/) | manuals, manual pages, price lists, brochures, documents | 97 |
-| [PHOTOS/](PHOTOS/) | photographs of the module | 0 |
-| [SOFTWARE/](SOFTWARE/) | program listings, firmware, the plugin | 0 |
-| [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 4 |
+| [SCHEMATICS/](SCHEMATICS/) | electrical drawings: schematics, functional diagrams, component layouts, wiring | 9 |
+| [MECHANICAL/](MECHANICAL/) | front panels, cover plates, metalwork, assemblies; the front panel as vectors | 2 |
+| [PINOUTS/](PINOUTS/) | the RTO-144 connector: connection sheets, connector layouts, rear views | 11 |
+| [MANUALS/](MANUALS/) | manuals, manual pages, price lists, brochures, documents | 98 |
+| [PHOTOS/](PHOTOS/) | photographs of the module | 1 |
+| [SOFTWARE/](SOFTWARE/) | program listings, firmware, the plugin | 1 |
+| [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 5 |
 | [OCR/](OCR/) | the note of every file: date, origin, title block, OCR text | 16 |
 
 <!-- module data: tools/module_specs.py, tools/forum_quotes.py -->
@@ -98,6 +98,11 @@ _KiCad: a schematic (`.kicad_sch`) traced from each electrical drawing, the modu
 - [1973 - M450A - 450-02-002 - MILE GCNE SCHEMATIC YEEZK.kicad_sch](KICAD/1973%20-%20M450A%20-%20450-02-002%20-%20MILE%20GCNE%20SCHEMATIC%20YEEZK.kicad_sch)
 - [1973 - M450A - Program Amplifer p12.kicad_sch](KICAD/1973%20-%20M450A%20-%20Program%20Amplifer%20p12.kicad_sch)
 - [M450A.kicad_sym](KICAD/M450A.kicad_sym)
+- [index.html](KICAD/index.html)
+
+## Software
+
+- [index.html](SOFTWARE/index.html)
 
 ---
 Archive: Anthony Peter Kuzub · [WBSps.ca](https://WBSps.ca) · [WBSps.Kuzub.com](https://WBSps.Kuzub.com)
