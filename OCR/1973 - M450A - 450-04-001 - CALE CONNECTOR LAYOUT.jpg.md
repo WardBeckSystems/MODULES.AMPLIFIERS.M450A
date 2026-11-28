@@ -1,5 +1,5 @@
 # 1973 - M450A - 450-04-001 - CALE CONNECTOR LAYOUT.jpg
-Wiki page: [M450A](../../../../PAGES/M450A.md)
+Wiki page: [M450A](../)
 
 
 - **Year:** 1973 (module estimate (month))

@@ -1,5 +1,5 @@
 # 1977 - M450A - Program Amplifer.pdf
-Wiki page: [M450A](../../../../PAGES/M450A.md)
+Wiki page: [M450A](../)
 
 
 - **Year:** 1977 (found in this file: "SEPT . 19 77")
