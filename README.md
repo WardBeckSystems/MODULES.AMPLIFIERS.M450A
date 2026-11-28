@@ -4,13 +4,11 @@ Ward-Beck Systems M450A, 1973|6. Wiki page: [M450A on WBSps.ca](https://wardbeck
 
 | Folder | What is in it | Files |
 |---|---|---|
-| [SCHEMATICS/](SCHEMATICS/) | electrical drawings: schematics, functional diagrams, component layouts, wiring | 9 |
-| [MECHANICAL/](MECHANICAL/) | front panels, cover plates, metalwork, assemblies; the front panel as vectors | 2 |
-| [PINOUTS/](PINOUTS/) | the RTO-144 connector: connection sheets, connector layouts, rear views | 11 |
-| [MANUALS/](MANUALS/) | manuals, manual pages, price lists, brochures, documents | 98 |
-| [PHOTOS/](PHOTOS/) | photographs of the module | 1 |
-| [SOFTWARE/](SOFTWARE/) | program listings, firmware, the plugin | 1 |
-| [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 5 |
+| [SCHEMATICS/](SCHEMATICS/) | electrical drawings: schematics, functional diagrams, component layouts, wiring | 8 |
+| [MECHANICAL/](MECHANICAL/) | front panels, cover plates, metalwork, assemblies; the front panel as vectors | 1 |
+| [PINOUTS/](PINOUTS/) | the RTO-144 connector: connection sheets, connector layouts, rear views | 10 |
+| [MANUALS/](MANUALS/) | manuals, manual pages, price lists, brochures, documents | 97 |
+| [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 4 |
 | [OCR/](OCR/) | the note of every file: date, origin, title block, OCR text | 16 |
 
 <!-- module data: tools/module_specs.py, tools/forum_quotes.py -->
@@ -46,8 +44,6 @@ _Pinouts: the RTO-144 edge connector (connection sheets, connector layouts and r
 <table>
 <tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKblFRZk54TGhPbEk/view?resourcekey=0-6p0_tFFgQOwJLfDikdFaKw" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKblFRZk54TGhPbEk&resourcekey=0-6p0_tFFgQOwJLfDikdFaKw" width="240" alt="1973 - M450A - 450-04-001 - CALE CONNECTOR LAYOUT.jpg"></a><br><sub>1973|6 · 450-04-001 - CALE CONNECTOR LAYOUT · <a href="PINOUTS/1973%20-%20M450A%20-%20450-04-001%20-%20CALE%20CONNECTOR%20LAYOUT%20(EXTRACTED).svg">vectors</a></sub></td></tr>
 </table>
-
-Not on Google Drive yet: `M450A - RTO-144 Connections.pdf`
 
 ## RTO-144 pinout
 
@@ -98,7 +94,6 @@ _KiCad: a schematic (`.kicad_sch`) traced from each electrical drawing, the modu
 - [1973 - M450A - 450-02-002 - MILE GCNE SCHEMATIC YEEZK.kicad_sch](KICAD/1973%20-%20M450A%20-%20450-02-002%20-%20MILE%20GCNE%20SCHEMATIC%20YEEZK.kicad_sch)
 - [1973 - M450A - Program Amplifer p12.kicad_sch](KICAD/1973%20-%20M450A%20-%20Program%20Amplifer%20p12.kicad_sch)
 - [M450A.kicad_sym](KICAD/M450A.kicad_sym)
-- [index.html](KICAD/index.html)
 
 ---
 Archive: Anthony Peter Kuzub · [WBSps.ca](https://WBSps.ca) · [WBSps.Kuzub.com](https://WBSps.Kuzub.com)
